@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-I am David Caetano, 22 year old Programmer (He/Him)
+I am David Caetano, 23 year old Programmer (He/Him)
 Studying Master's Degree in Software Engineering
 
 I speak PT 🇵🇹, ESP 🇪🇸 and ENG 🇬🇧
