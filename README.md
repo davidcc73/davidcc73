@@ -21,7 +21,7 @@ I speak PT 🇵🇹, ESP 🇪🇸 and ENG 🇬🇧
 
 
 
-## 🧰 Languagesand Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgresql" height="40" style="vertical-align:top; margin:4px">
