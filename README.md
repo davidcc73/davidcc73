@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 I am David Caetano, 24 year old Programmer (He/Him)
 Studying Master's Degree in Software Engineering
 
-I speak PT 🇵🇹, ESP 🇪🇸 and ENG 🇬🇧
+I speak ENG, PT and understand ESP 
 
 
 
 ## 🧰 Languages and Tools:
 <p align="center">
+  
+<img src="https://p4.org/wp-content/uploads/2024/06/p4-logo.svg" alt="P4" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgresql" height="40" style="vertical-align:top; margin:4px">
   
@@ -42,10 +44,13 @@ I speak PT 🇵🇹, ESP 🇪🇸 and ENG 🇬🇧
   
   
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">  
+<!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/langfr-135px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" height="40" style="vertical-align:top; margin:4px">
-  
+-->
 <img src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+
+
 
 </p>
 
