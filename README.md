@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-I am David Caetano, {{AGE}} year old Programmer (He/Him)
+I am David Caetano, 25 year old Programmer (He/Him)
 Studying Master's Degree in Software Engineering
 
 I speak ENG, PT and understand ESP 
